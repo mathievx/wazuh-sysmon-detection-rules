@@ -1,7 +1,5 @@
----
-title: Engineering Custom Detection Rules in Wazuh Using Sysmon Telemetry
-date: August 4, 2024
----
+## Engineering Custom Detection Rules in Wazuh Using Sysmon Telemetry
+
 This project examines how endpoint telemetry from Sysmon can be used to build custom detection logic in Wazuh. The focus was on constructing rules that analyze Windows process, network, file, and registry events and convert them into meaningful alerts through structured conditions and contextual filtering.
 
 The test environment consisted of:
